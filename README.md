@@ -1,10 +1,10 @@
-[![doc-build](https://img.shields.io/readthedocs/Tosee-docs)](https://readthedocs.org/projects/Tosee-docs/builds/)
+[![doc-build](https://readthedocs.org/projects/toseedocs/badge/?version=latest)](https://toseedocs.readthedocs.io/zh/latest/?badge=latest)
 
 # Tosee-docs
 Tosee Inc. documents
 
 <!-- TODO: fixthis -->
-Website: https://Tosee-docs.readthedocs.io/
+Website: https://toseedocs.readthedocs.io/
 
 ## Local edit
 
