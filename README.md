@@ -13,25 +13,25 @@ refer to [Read-the-Docs Getting Started with Sphinx](https://read-the-docs.readt
 - 1.Assuming you have Python already, install Sphinx:
 
     ```bash
-    $ sudo pip install sphinx
+    $ pip install sphinx>=2.6
     ```
 
 - 2.Install `recommonmark` for markdown files(.md):
 
     ```bash
-    $ sudo pip install recommonmark
+    $ pip install recommonmark
     ```
 
 - 3.Install theme `sphinx_rtd_theme`:
     ```bash
-    $ sudo pip install sphinx_rtd_theme
+    $ pip install sphinx_rtd_theme
     ```
 
 - 4.Make file:
 
     ```bash
-    $ cd {your_project_path}/Tosee-docs/
+    $ cd ${your_project_path}/Tosee-docs/
     $ make html
     ```
 
-- 5.Open file `index.html` in path `{your_project_path}/Tosee-docs/_build/html/index.html`
+- 5.Open file `index.html` in path `${your_project_path}/Docs/_build/html/index.html`
