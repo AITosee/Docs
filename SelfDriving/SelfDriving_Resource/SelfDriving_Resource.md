@@ -2,8 +2,6 @@
 
 在以下网址可获取最新的MU视觉传感器技术资料：
 
-官网技术支持：<http://mai.Tosee.com/page.php?a=sensor-support>
-
 GitHub：<https://github.com/mu-opensource/>
 
 # 亚克力支架

@@ -6,8 +6,6 @@ Mu Editor是一款具有友好GUI界面的MicroPython集成开发工具，包含
 
 GitHub：<https://github.com/mu-opensource/MuVisionSensor3-MicroPython>
 
-Tosee官网：<http://mai.Tosee.com/page.php?a=sensor-support>
-
 （2）更新Micro:bit固件：
 
 将Micro:bit通过USB线连接电脑，出现Micro:bit的磁盘，将下载的固件microbit-micropython-MuVisionSensor-x.x.x.hex 文件拖入磁盘中，Micro:bit将自动更新固件并重启。

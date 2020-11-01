@@ -4,9 +4,7 @@
 
 对于未使用过Mixly的用户，可以下载完整的定制Mixly安装包，已包含MU Vision Sensor 3库。
 
-<!-- TODO: -->
-
-Windows/Linux/Mac完整版MoonBot Mixly安装包下载地址：[https://pan.baidu.com/s/1h8Cuj8UYm99Mh3O1ppmMfg](https://pan.baidu.com/s/1h8Cuj8UYm99Mh3O1ppmMfg)，提取码：`ksme`
+Windows/Linux/Mac完整版MoonBot Mixly安装包下载地址：[https://pan.baidu.com/s/1t6ZEGujlN9I35ePtyY9u4w](https://pan.baidu.com/s/1t6ZEGujlN9I35ePtyY9u4w)，提取码：`wc34`
 
 ## Mixly库导入
 
