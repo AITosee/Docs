@@ -92,7 +92,7 @@
 1. [麦昆+无人驾驶+siot](http://mc.dfrobot.com.cn/thread-297505-1-1.html)
 1. [用MU摄像头做一个图传工程车-1](http://mc.dfrobot.com.cn/thread-299187-1-1.html)
 1. [用MU摄像头做一个图传工程车-2|easyiot](http://mc.dfrobot.com.cn/thread-299192-1-1.html)
-1. [用MU摄像头做一个图传工程车-3|双头蛇AI+图传+EASYIOT]()
+1. [用MU摄像头做一个图传工程车-3|双头蛇AI+图传+EASYIOT](http://mc.dfrobot.com.cn/thread-299203-1-1.html)
 1. [麦昆清障](http://mc.dfrobot.com.cn/thread-297654-1-1.html)
 1. [基于视觉识别的智能场馆控制系统](http://mc.dfrobot.com.cn/thread-299363-1-1.html)
 1. [小MU与micro:bit互动新玩法](http://mc.dfrobot.com.cn/thread-296610-1-1.html)
