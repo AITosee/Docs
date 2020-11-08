@@ -5,6 +5,20 @@
 欢迎来到瞳芯智能的文档
 ======================
 
+.. |SPT0| image:: images/qqgroup.jpg
+   :height: 200
+   :width: 200
+
+.. |SPT1| image:: images/wechat_support.jpg
+   :height: 200
+   :width: 200
+
++----------------+-+----------------+
+|    官方QQ群    | |  微信技术支持  |
++================+=+================+
+|     |SPT0|     | |     |SPT1|     |
++----------------+-+----------------+
+
 .. toctree::
     :maxdepth: 1
     :caption: MU Vision Sensor 3 开发教程
