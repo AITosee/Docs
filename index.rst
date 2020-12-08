@@ -30,6 +30,7 @@
     MUVS3/MUVS3_MicroPython/index
     MUVS3/MUVS3_Resource/index
     MUVS3/MUVS3_Application/index
+    MUVS3/MUVS3_mPythonx/index
 
 
 .. .. toctree::
